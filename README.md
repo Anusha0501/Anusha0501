@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anusha Singh</h1>
 <h3 align="center">Sophomore MERN Full Stack Web Developer & Creative Designer | B.Tech Computer Science Undergraduate Student | Machine Learning Enthusiast</h3>
-
+<p align="center"> <img src="https://e0.pxfuel.com/wallpapers/523/786/desktop-wallpaper-anime-computer-hacker-girl-anime-programming.jpg" alt="anusha" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anusha0501&label=Profile%20views&color=0e75b6&style=flat" alt="anusha0501" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anusha0501" alt="anusha0501" /></a> </p>
