@@ -30,8 +30,6 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<p align="center"> <img src="https://tenor.com/view/black-hair-long-hair-cute-talking-pretty-gif-19444490" alt="anusha anime" /> </p>
-<div class="tenor-gif-embed" data-postid="19444490" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/black-hair-long-hair-cute-talking-pretty-gif-19444490">Black Hair Long Hair GIF</a>from <a href="https://tenor.com/search/black+hair-gifs">Black Hair GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
