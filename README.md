@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Web Development](https://github.com/Anusha0501/Personal_portfolio)
 
-- 🌱 I’m currently learning **AI/ML,UI/UX Designing,**
+- 🌱 I’m currently learning **AI/ML,UI/UX Designing,Web Development**
 
 - 👯 I’m looking to collaborate on [Machine Learning Projects](https://github.com/Anusha0501/book_recommendation_system)
 
@@ -30,9 +30,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<p align="center">
-  <img src="https://tenor.com/view/black-hair-long-hair-cute-talking-pretty-gif-19444490" alt="anime GIF" style="width: 40%; max-width: 400px;">
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
