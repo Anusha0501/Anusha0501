@@ -30,6 +30,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="https://tenor.com/view/black-hair-long-hair-cute-talking-pretty-gif-19444490" alt="anime GIF" style="width: 40%; max-width: 400px;">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
