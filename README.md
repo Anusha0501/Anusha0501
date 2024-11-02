@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anusha Singh</h1>
-<h3 align="center">Sophomore MERN Full Stack Web Developer & Creative Designer | B.Tech Computer Science Undergraduate Student | Machine Learning Enthusiast</h3>
+<h3 align="center">Pre Final year MERN Full Stack Web Developer & Creative Designer | B.Tech Computer Science Undergraduate Student | Machine Learning Enthusiast</h3>
 <p align="center"> <img src="https://e0.pxfuel.com/wallpapers/523/786/desktop-wallpaper-anime-computer-hacker-girl-anime-programming.jpg" alt="anusha" /> </p>
 
 [![](https://visitcount.itsvg.in/api?id=Anusha0501&icon=4&color=10)](https://visitcount.itsvg.in)
