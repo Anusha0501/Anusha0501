@@ -25,6 +25,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha0501&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anusha0501&theme=dark)](https://git.io/streak-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anusha0501&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
