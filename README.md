@@ -8,7 +8,7 @@
   <img src="https://github.com/Anusha0501/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-[![Spotify](https://novatorem-ft5u33ppi-anusha0501s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31nrr3vziibzuneibw5iiyd3x6lq?si=f0ed153846f745c7)
+[![Spotify](https://anusha0501s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31nrr3vziibzuneibw5iiyd3x6lq?si=f0ed153846f745c7)
 
 
 
