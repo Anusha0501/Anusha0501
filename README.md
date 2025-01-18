@@ -8,6 +8,8 @@
   <img src="https://github.com/Anusha0501/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+[![Spotify](https://Anusha0501.vercel.app/api/spotify)](https://open.spotify.com/user/Anusha0501)
+
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning AI/ML,UI/UX Designing,Web Development<br><br>👯 I’m looking to collaborate on Machine Learning Projects<br><br>🤝 I’m looking for help with Webapps<br><br>👨‍💻 All of my projects are available at https://github.com/Anusha0501<br><br>📝 I regularly write articles on https://medium.com/@anusha.22cse<br><br>💬 Ask me about C++,Python,Java,Javascript,ML<br><br>📫 How to reach me anusha.22cse@bmu.edu.in<br><br>
