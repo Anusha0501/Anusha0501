@@ -4,14 +4,11 @@
 
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnusha0501&count_bg=radical&title_bg=radical&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
-
 <p align="center">
   <img src="https://github.com/Anusha0501/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 [![Spotify](https://anusha0501s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31nrr3vziibzuneibw5iiyd3x6lq?si=f0ed153846f745c7)
-
-
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning AI/ML,UI/UX Designing,Web Development<br><br>👯 I’m looking to collaborate on Machine Learning Projects<br><br>🤝 I’m looking for help with Webapps<br><br>👨‍💻 All of my projects are available at https://github.com/Anusha0501<br><br>📝 I regularly write articles on https://medium.com/@anusha.22cse<br><br>💬 Ask me about C++,Python,Java,Javascript,ML<br><br>📫 How to reach me anusha.22cse@bmu.edu.in<br><br>
