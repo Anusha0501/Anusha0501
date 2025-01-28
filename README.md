@@ -5,7 +5,7 @@
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnusha0501&count_bg=radical&title_bg=radical&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnusha0501&count_bg=%23FF0080&title_bg=%23750C7C&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=true" width="200" height="40" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnusha0501&count_bg=%23FF0080&title_bg=%23750C7C&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=true" width="300" height="80" />
 </a>
 
 
