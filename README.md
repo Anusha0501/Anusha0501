@@ -11,7 +11,7 @@
 [![Spotify](https://anusha0501s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31nrr3vziibzuneibw5iiyd3x6lq?si=f0ed153846f745c7)
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning AI/ML,UI/UX Designing,Web Development<br><br>👯 I’m looking to collaborate on Machine Learning Projects<br><br>🤝 I’m looking for help with Webapps<br><br>👨‍💻 All of my projects are available at https://github.com/Anusha0501<br><br>📝 I regularly write articles on https://medium.com/@anusha.22cse<br><br>💬 Ask me about C++,Python,Java,Javascript,ML<br><br>📫 How to reach me anusha.22cse@bmu.edu.in<br><br>
+🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning AI/ML,UI/UX Designing,Web Development<br><br>👯 I’m looking to collaborate on Generative AI & LLMs <br><br>🤝 I’m looking for help with Webapps<br><br>👨‍💻 All of my projects are available at https://github.com/Anusha0501<br><br>📝 I regularly write articles on https://medium.com/@anusha.22cse<br><br>💬 Ask me about C++,Python,Java,Javascript,ML<br><br>📫 How to reach me anusha.22cse@bmu.edu.in<br><br>
 ⚡ Fun fact **Cold Coffee Lover, Badminton Sports Silver Medalist, Gold Medalist Speed Runner, Gym Pookie**
 
 # 🌐 Socials:
