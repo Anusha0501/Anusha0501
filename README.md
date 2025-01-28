@@ -2,7 +2,8 @@
 <h3 align="center">Pre Final Year MERN Full Stack Web Developer & Creative Designer | B.Tech Computer Science Undergraduate Student | Machine Learning Enthusiast</h3>
 <p align="center"> <img src="https://e0.pxfuel.com/wallpapers/523/786/desktop-wallpaper-anime-computer-hacker-girl-anime-programming.jpg" alt="anusha" /> </p>
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnusha0501&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnusha0501&count_bg=radical&title_bg=radical&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 <p align="center">
   <img src="https://github.com/Anusha0501/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
