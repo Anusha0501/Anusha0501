@@ -24,12 +24,15 @@
 ## 🏆 My LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anusha-0501?theme=radical&font=Noto%20Sans%20Display)
 
+![images](https://github.com/user-attachments/assets/e0b68690-9fb7-479a-a0f0-fd6c1303da44)
+
 
 # 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anusha0501&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anusha0501&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha0501&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![1_Yb2W5n4-ZyQZ8ggggHGCZA](https://github.com/user-attachments/assets/81c980de-9212-4fa9-a534-fd70a56b0793)
 
 
 ## 🏆 GitHub Trophies
@@ -40,3 +43,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![images (1)](https://github.com/user-attachments/assets/a376293f-a746-4a26-a363-fe7551a45499)
+
