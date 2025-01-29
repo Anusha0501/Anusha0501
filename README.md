@@ -22,9 +22,10 @@
 
 
 ## 🏆 My LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/anusha-0501?theme=radical&font=Noto%20Sans%20Display)
-
-![images](https://github.com/user-attachments/assets/e0b68690-9fb7-479a-a0f0-fd6c1303da44)
+<div style="display: flex; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/anusha-0501?theme=radical&font=Noto%20Sans%20Display" alt="LeetCode Stats" />
+  <img src="https://github.com/user-attachments/assets/e0b68690-9fb7-479a-a0f0-fd6c1303da44" alt="anusha" style="margin-left: 40px;" />
+</div>
 
 
 # 📊 My GitHub Stats:
@@ -32,7 +33,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anusha0501&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha0501&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![1_Yb2W5n4-ZyQZ8ggggHGCZA](https://github.com/user-attachments/assets/81c980de-9212-4fa9-a534-fd70a56b0793)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/81c980de-9212-4fa9-a534-fd70a56b0793" alt="profile" style="width: 650px; height: auto;" />
+</div>
+
 
 
 ## 🏆 GitHub Trophies
