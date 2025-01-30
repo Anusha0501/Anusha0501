@@ -8,8 +8,7 @@
   <img src="https://github.com/Anusha0501/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31nrr3vziibzuneibw5iiyd3x6lq&count=3" width="350" height="180" alt="Spotify Recently Played" />
-
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31nrr3vziibzuneibw5iiyd3x6lq&count=1)
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning AI/ML,UI/UX Designing,Web Development<br><br>👯 I’m looking to collaborate on Generative AI & LLMs <br><br>🤝 I’m looking for help with Webapps<br><br>👨‍💻 All of my projects are available at https://github.com/Anusha0501<br><br>📝 I regularly write articles on https://medium.com/@anusha.22cse<br><br>💬 Ask me about C++,Python,Java,Javascript,ML<br><br>📫 How to reach me anusha.22cse@bmu.edu.in<br><br>
