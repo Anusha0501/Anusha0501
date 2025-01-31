@@ -48,5 +48,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![images (1)](https://github.com/user-attachments/assets/a376293f-a746-4a26-a363-fe7551a45499)
 
