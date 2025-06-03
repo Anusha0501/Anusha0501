@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anusha Singh</h1>
 <h3 align="center">Pre-final Year CS Undergrad | AI/ML & GenAI Enthusiast | MERN Full Stack Developer</h3>
-<p align="center"> <img src="https://e0.pxfuel.com/wallpapers/523/786/desktop-wallpaper-anime-computer-hacker-girl-anime-programming.jpg" alt="anusha" /> </p>
 
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnusha0501&count_bg=radical&title_bg=radical&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -16,6 +15,9 @@
 
 # My AI/ML/GenAI Projects ❤️
 
+* [Smart Risk Advisor](https://github.com/Anusha0501/SmartRiskAdvisor)
+  ML & LLM-Powered Financial Decision Intelligence System.(⚠️ Work In Progress)
+  
 * [AI Voice Assistant](https://github.com/Anusha0501/AI_voice_assistant)
   A Python voice assistant integrating speech recognition and GPT-powered responses.
 
