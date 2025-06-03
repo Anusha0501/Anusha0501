@@ -58,8 +58,8 @@
 ## 🏆 My LeetCode Stats
 <div style="display: flex; align-items: center;">
   <img src="https://leetcard.jacoblin.cool/anusha-0501?theme=radical&font=Noto%20Sans%20Display" alt="LeetCode Stats" />
-  <img src="https://github.com/user-attachments/assets/e0b68690-9fb7-479a-a0f0-fd6c1303da44" alt="anusha" style="margin-left: 40px;" />
-</div>
+  <!-- <img src="https://github.com/user-attachments/assets/e0b68690-9fb7-479a-a0f0-fd6c1303da44" alt="anusha" style="margin-left: 40px;" />
+</div> -->
 
 
 # 📊 My GitHub Stats:
