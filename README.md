@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anusha Singh</h1>
 <h3 align="center">Pre-final Year CS Undergrad | AI/ML & GenAI Enthusiast | MERN Full Stack Developer</h3>
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnusha0501&count_bg=radical&title_bg=radical&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=true)](https://hits.seeyoufarm.com)
-
 <p align="center">
   <img src="https://github.com/Anusha0501/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
