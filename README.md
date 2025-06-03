@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anusha Singh</h1>
 <h3 align="center">Pre-final Year CS Undergrad | AI/ML & GenAI Enthusiast | MERN Full Stack Developer</h3>
+<p align="center">
+  <img src="assets/coding.gif" alt="Coding Typing" width="300" />
+</p>
 
 <p align="center">
   <img src="https://github.com/Anusha0501/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
