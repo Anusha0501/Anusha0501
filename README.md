@@ -81,5 +81,5 @@
 
 
 <p align="center">
-  <img src="assets/anime-coffee.gif" alt="Coding Typing" width="300" />
+  <img src="assets/uploads_image_53zvb96VuhTfNkXnALIalYpid2MU4G_uploads_image_pmo6R317ViFwNbrD8JzyOsK4GdCY5e_this-stupid,-wonderful,-boring,-amazing-job.gif" alt="jim pam" width="300" />
 </p>
