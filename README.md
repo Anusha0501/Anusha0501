@@ -80,6 +80,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Anusha0501&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
 
-<p align="center">
-  <img src="assets/uploads_image_53zvb96VuhTfNkXnALIalYpid2MU4G_uploads_image_pmo6R317ViFwNbrD8JzyOsK4GdCY5e_this-stupid,-wonderful,-boring,-amazing-job.gif" alt="jim pam" width="300" />
+<p align="left">
+  <img src="assets/uploads_image_53zvb96VuhTfNkXnALIalYpid2MU4G_uploads_image_pmo6R317ViFwNbrD8JzyOsK4GdCY5e_this-stupid,-wonderful,-boring,-amazing-job.gif" alt="jim pam" width="200" />
 </p>
