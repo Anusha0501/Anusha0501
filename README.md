@@ -79,3 +79,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anusha0501&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
 
+
+<p align="center">
+  <img src="assets/anime-coffee.gif" alt="Coding Typing" width="300" />
+</p>
