@@ -23,10 +23,10 @@
 <!-- SOCIAL LINKS -->
 <!-- ========================= -->
 <div align="center">
-  <a href="mailto:anusha.22cse@bmu.edu.in">
+  <a href="mailto:anushaaa.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-C77DFF?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
-  <a href="https://www.linkedin.com/in/anusha-singh-44a911268/">
+  <a href="https://www.linkedin.com/in/anusha-singh01/">
     <img src="https://img.shields.io/badge/LinkedIn-E9A7FF?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   <a href="https://github.com/Anusha0501">
