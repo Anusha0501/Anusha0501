@@ -50,7 +50,7 @@
 ### 👩‍💻 The Developer Profile
 
 - 🔭 **Current Focus:** Full Stack Web Development  
-- 🌱 **Learning:** UI/UX Design & Advanced Web Concepts  
+- 🌱 **Learning:** DevOps & Cloud Computing  
 - 💼 **Experience:** MERN Stack, Java, Python  
 - 💬 **Ask me about:** DSA, Java, Web Development  
 - ⚡ **Fun Fact:** Cold coffee & sports lover ☕⚽  
